@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Ibrahim+Khan+%7C+Cybersecurity+Student+%26+Developer" />
-</p>
 
-# Hi, I'm Ibrahim Khan 👋
+
+# Hi, I'm Ibrahim Khan
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-0A66C2?style=flat-square" />
@@ -27,7 +25,7 @@ I am a cybersecurity student passionate about secure systems, offensive security
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack (Minimalist Dark Theme)
 
 <table>
 <tr>
@@ -116,6 +114,7 @@ Multi-client file server with upload, download, and activity logging.
 ## 📫 Contact
 
 **Email:** *m.ibkhan@icloud.com*
+
 **LinkedIn:** *www.linkedin.com/in/muhammad-ibrahim-475832279*
 
 ---
